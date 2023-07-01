@@ -16,11 +16,11 @@
 body {
     font-family: 'Inter', sans-serif;
     background-color: var(--primary-color);
-    color: #dcdada;
+    color: #ededed;
 }
 
 p {
-    color: #dcdada;
+    color: #ededed;
 }
 
 h2 {
