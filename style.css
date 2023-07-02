@@ -199,6 +199,7 @@ ul li a {
     padding: 8px;
     color: #fff;
     background: #001C30;
+    animation: 0.2s ease-in-out;
 }
 
 @media screen and (max-width: 900px) {
