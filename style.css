@@ -225,9 +225,6 @@ ul li a {
     .right-column {
         width: 100%;
         background-color: var(--secondary-color);
-    }
-    .education,
-    .work-experience {
-        margin-bottom: 10px;
+        gap: 15px;
     }
 }
