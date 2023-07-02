@@ -140,11 +140,6 @@ i {
 
 .project-list {
     padding-left: 30px;
-    list-style: none;
-}
-
-ul li {
-    list-style-type: none;
 }
 
 ul li a {
@@ -200,6 +195,22 @@ ul li a {
     color: #fff;
     background: #001C30;
     animation: 0.2s ease-in-out;
+}
+
+.edu-items {
+    /* display: inline; */
+    display: flex;
+    flex-direction: row;
+}
+
+.text-desc p {
+    font-size: 0.1rem !important;
+}
+
+.cg {
+    padding-left: 5px;
+    font-style: italic;
+    font-size: 0.9rem;
 }
 
 @media screen and (max-width: 900px) {
