@@ -168,8 +168,9 @@ ul li a {
     color: #fff;
     border-radius: 4px;
     padding: 7px;
-    font-size: 0.9rem;
+    font-size: 0.7rem;
     text-transform: uppercase;
+    font-weight: 500;
 }
 
 .lang-tags {
@@ -177,8 +178,9 @@ ul li a {
     color: #fff;
     border-radius: 4px;
     padding: 5px;
-    font-size: 0.9rem;
+    font-size: 0.7rem;
     text-transform: uppercase;
+    font-weight: 500;
 }
 
 .social-icon {
